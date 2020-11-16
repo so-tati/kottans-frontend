@@ -62,6 +62,20 @@ Practicing git remotes while faking a teamwork was all new to me. I've discovere
 
 #### 1 Linux CLI Http
 
+* [x] [Linux Survival (4 modules)](https://linuxsurvival.com/linux-tutorial-introduction/)
+
+![LS](task1/1.jpg)
+
+![LS](task1/2.jpg)
+
+![LS](task1/3.jpg)
+
+![LS](task1/4.jpg)
+
+* [] [HTTP: The Protocol Every Web Developer Must Know - Part 1](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
+
+* [] [HTTP: The Protocol Every Web Developer Must Know - Part 2](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155)
+
 #### 2 Git collaboration
 
 #### 3 HTML CSS intro
