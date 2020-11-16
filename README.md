@@ -8,62 +8,64 @@ Preparatory stage of _Front-End Course_. Following tasks should be completed
 to join main course. Learn more in [README](README.md).
 
 ### General
- [] 0. [Git Basics](#0-git-intro)
+0. [Git Basics](#0-git-intro)
  
- [] 1. [Linux CLI and Networking](#linux-cli-http)
+1. [Linux CLI and Networking](#1-linux-cli-http)
  
- [] 2. [VCS (hello gitty), GitHub and Collaboration](#git-collaboration)
+2. [VCS (hello gitty), GitHub and Collaboration](#2-git-collaboration)
 
 ### Front-End Basics
- [] 3. [Intro to HTML & CSS](#html-css-intro)
+3. [Intro to HTML & CSS](#3-html-css-intro)
  
- [] 4. [Responsive Web Design](#html-css-responsive)
+4. [Responsive Web Design](#4-html-css-responsive)
  
- [] 5. [HTML & CSS Practice](#html-css-popup)
+5. [HTML & CSS Practice](#5-html-css-popup)
  
- [] 6. [JavaScript Basics](#js-basics)
+6. [JavaScript Basics](#6-js-basics)
  
- [] 7. [Document Object Model](#js-dom) - practice
+7. [Document Object Model](#7-js-dom) - practice
 
 ### Advanced Topics
- [] 8. [Building a Tiny JS World (pre-OOP)](#js-pre-oop) - practice
+8. [Building a Tiny JS World (pre-OOP)](#8-js-pre-oop) - practice
  
- [] 9. [Object oriented JS](#js-oop) - practice
+9. [Object oriented JS](#9-js-oop) - practice
  
- [] 10. [OOP exercise](#js-post-oop) - practice
+10. [OOP exercise](#10-js-post-oop) - practice
  
-[] 11. [Offline Web Applications](#app-design-offline)
+11. [Offline Web Applications](#11-app-design-offline) - optional
 
-[] 12. [Memory pair game](#memory-pair-game) — real project!
+12. [Memory pair game](#12-memory-pair-game) — real project!
 
-[] 13. [Website Performance Optimization](#app-design-performance)
+13. [Website Performance Optimization](#13-app-design-performance) - optional
 
-[] 14. [Friends App](#friends-app) - real project!
+14. [Friends App](#14-friends-app) - real project!
 
-#### Git intro
+#### 0 Git intro
 
-#### Linux Cli Http
+#### 1 Linux CLI Http
 
-#### Git Collaboration
+#### 2 Git collaboration
 
-#### HTML CSS intro
+#### 3 HTML CSS intro
 
-#### HTML CSS responsive
+#### 4 HTML CSS responsive
 
-#### HTML CSS popup
+#### 5 HTML CSS popup
 
-#### JS basics
+#### 6 JS basics
 
-#### JS DOM
+#### 7 JS DOM
 
-#### JS pre OOP
+#### 8 JS pre-OOP
 
-#### JS OOP
+#### 9 JS OOP
 
-#### App design offline
+#### 10 JS post-OOP
 
-#### Memory Pair game
+#### 11 App design offline
 
-#### App design performance
+#### 12 Memory pair game
 
-#### Friends app
+#### 13 App design performance
+
+#### 14 Friends app
