@@ -42,13 +42,13 @@ to join main course. Learn more in [README](README.md).
 
 #### 0 Git intro
 
-* [ ] Finish the course [Version Control with Git] (https://classroom.udacity.com/courses/ud123)
+* [ ] Finish the course [Version Control with Git](https://classroom.udacity.com/courses/ud123)
 
 I've already worked with git locally, so this topic is not someting brand new to me. Though, I liked the way the material is performed in this course, it seems well-structured and covers the very first steps for exploring version control system.
 
 ![Udacity screenshot](task0/01.jpg)
 
-* [ ] Complete the following levels at [learngitbranching.js.org] (https://learngitbranching.js.org):
+* [ ] Complete the following levels at [learngitbranching.js.org](https://learngitbranching.js.org):
 
 I've discovered a ```rebase``` command: it is used when we want to make it look like two features were developed sequentially in one branch, when in reality they were developed in parallel in different branches.
 
