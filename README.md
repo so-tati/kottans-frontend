@@ -58,7 +58,8 @@ Practicing git remotes while faking a teamwork was all new to me. I've discovere
 
 ![Remote: Push & Pull -- Git Remotes](task0/03.jpg)
 
-* [ ] Send a pull-request to Kottans/mock-repo proposing a change.
+* [x] Send a [pull-request](https://github.com/kottans/mock-repo/pull/553) to Kottans/mock-repo proposing a change.
+This was a really cool experience! Sending a pull request was absolutely new to me and now I feel more confident with git.
 
 #### 1 Linux CLI Http
 
