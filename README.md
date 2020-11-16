@@ -65,6 +65,14 @@ This was a really cool experience! Sending a pull request was absolutely new to 
 
 * [x] [Linux Survival (4 modules)](https://linuxsurvival.com/linux-tutorial-introduction/)
 
+I've been using cli in Linux ( Ubuntu, if being precisely ) for the last 7 years already. Though, I've discovered some new  commands:
+Here are the basic Linux print commands:
+- ```lpr``` for sending to printer
+- ```lpq```  for displaying print queue
+- ```lprm``` for removing from print queue
+
+and I was surprised, about the ```finger```, which shows the user's info: name, home catalogue, etc.
+
 ![LS](task1/1.jpg)
 
 ![LS](task1/2.jpg)
