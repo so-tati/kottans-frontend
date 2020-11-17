@@ -4,8 +4,8 @@
 
 ## Stage 0. Self-Study
 
-Preparatory stage of _Front-End Course_. Following tasks should be completed
-to join main course. Learn more in [README](README.md).
+A preparatory stage of the [Front-End Course](https://github.com/kottans/frontend/blob/master/contents.md). Following tasks should be completed
+to join main course. 
 
 ### General
 0. [Git Basics](#0-git-intro)
