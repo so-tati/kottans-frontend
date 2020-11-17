@@ -86,6 +86,22 @@ and I was surprised, about the ```finger```, which shows the user's info: name, 
 * [] [HTTP: The Protocol Every Web Developer Must Know - Part 2](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155)
 
 #### 2 Git collaboration
+I've got a great advice, which was new to me:
+
+> ⚠️ Prefer Working Locally ⚠️
+> Because GitHub has a web interface, it allows you to add commits manually through its interface. But just because you can do a thing, **doesn't mean you should**. I've demoed making these changes this way so that we could simulate commits being on the remote repository but not in the local repository. But I recommend that you should always work locally on a project and then push those changes to the remote repository.
+
+* [ ] [GitHub & Collaboration](https://classroom.udacity.com/courses/ud456)
+
+Complete the following levels at [learngitbranching.js.org](https://learngitbranching.js.org):
+
+** [x] Main: Ramping Up, Moving Work Around
+
+![Main](task2/1.jpg)
+
+** [x] Remote: To Origin and Beyond
+
+![Remote](task2/2.jpg)
 
 #### 3 HTML CSS intro
 
