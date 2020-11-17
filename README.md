@@ -115,13 +115,13 @@ The ```git rebase``` command can help you edit commit messages, reorder commits,
 
 ![Main](task2/1.jpg)
 
-Complete the following levels at [learngitbranching.js.org](https://learngitbranching.js.org):
+* [x] Complete the following levels at [learngitbranching.js.org](https://learngitbranching.js.org):
 
-** [x] Main: Ramping Up, Moving Work Around
+- Main: Ramping Up, Moving Work Around
 
 ![Main](task2/2.jpg)
 
-** [x] Remote: To Origin and Beyond
+- Remote: To Origin and Beyond
 
 ![Remote](task2/3.jpg)
 
