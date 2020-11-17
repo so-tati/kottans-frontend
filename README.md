@@ -86,22 +86,44 @@ and I was surprised, about the ```finger```, which shows the user's info: name, 
 * [] [HTTP: The Protocol Every Web Developer Must Know - Part 2](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155)
 
 #### 2 Git collaboration
-I've got a great advice, which was new to me:
+
+This Udacity course makes a great summary and gives advanced explanations to the practice of pull-request, performed at task 0.
+I've got a great advice, which is wonderfully obvious:
 
 > ⚠️ Prefer Working Locally ⚠️
 > Because GitHub has a web interface, it allows you to add commits manually through its interface. But just because you can do a thing, **doesn't mean you should**. I've demoed making these changes this way so that we could simulate commits being on the remote repository but not in the local repository. But I recommend that you should always work locally on a project and then push those changes to the remote repository.
 
-* [ ] [GitHub & Collaboration](https://classroom.udacity.com/courses/ud456)
+In addition I'd like to highlight the importance of ```git fetch```:
+
+>One main point when you want to use ```git fetch``` rather than ```git pull``` is if your remote branch and your local branch both have changes that neither of the other ones has. In this case, you want to fetch the remote changes to get them in your local branch and then perform a merge manually. Then you can push that new merge commit back to the remote.
+
+Forking a remote repository (ref Lesson2) was recently cpompleted by me at task 1, when I was aimed to fork the kottans repo and perform some changes. So, I'm sure, this is what I'll be performing for many times in future.
+
+```git shortlog``` was a command that has surprised me — it's really convenient and makes the collaboration easy-peasy. I'll definittely use it if forking a repo.
+Flags available:
+> ```-s``` to show just the number of commits (rather than each commit's message)
+> ```-n``` to sort them numerically (rather than alphabetically by author name).
+
+> When to ```rebase```
+The ```git rebase``` command can help you edit commit messages, reorder commits, combine commits, etc.
+
+>Whenever you rebase commits, Git will create a new SHA for each commit! To Git, the SHA is the identifier for a commit, so a different identifier means it's a different commit, regardless if the content has changed at all.
+
+>So you should not rebase if you have already pushed the commits you want to rebase. If you then use git rebase to change things around and then force push the commits, then the other developers will now be out of sync with the remote repository. They might just have to scrap all of their work and start over with your newly-rebased, force-pushed commits.
+
+* [x] [GitHub & Collaboration](https://classroom.udacity.com/courses/ud456)
+
+![Main](task2/1.jpg)
 
 Complete the following levels at [learngitbranching.js.org](https://learngitbranching.js.org):
 
 ** [x] Main: Ramping Up, Moving Work Around
 
-![Main](task2/1.jpg)
+![Main](task2/2.jpg)
 
 ** [x] Remote: To Origin and Beyond
 
-![Remote](task2/2.jpg)
+![Remote](task2/3.jpg)
 
 #### 3 HTML CSS intro
 
